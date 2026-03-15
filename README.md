@@ -1,4 +1,4 @@
-# Personal Finance API (Simple)
+# Personal Finance API
 
 REST API sederhana untuk transaksi keuangan pribadi dengan fitur:
 
